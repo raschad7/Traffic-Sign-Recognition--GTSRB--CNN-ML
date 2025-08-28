@@ -1,6 +1,4 @@
-Got it ✅ — here’s a clean **README.md** you can drop into your repo for the Traffic Sign Recognition project:
 
-```markdown
 # 🚦 Traffic Sign Recognition (GTSRB) with CNN
 
 ## 📌 Project Overview
@@ -116,7 +114,7 @@ Input (64×64×3)
 - **Recommended format:**
   ```python
   model.save("gtsrb_cnn_baseline.keras")
-````
+
 
 - **Legacy format (still works):**
 
